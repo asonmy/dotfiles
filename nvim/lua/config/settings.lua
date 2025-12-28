@@ -1,0 +1,9 @@
+vim.opt.number = true           -- Show line numbers
+vim.opt.relativenumber = true   -- Relative line numbers
+vim.opt.mouse = 'a'             -- Enable mouse
+vim.opt.termguicolors = true       -- Better colors
+vim.opt.clipboard = 'unnamedplus' -- Use system clipboard
+vim.opt.expandtab = true        -- Use spaces instead of tabs
+vim.opt.shiftwidth = 4         -- Indent by 4 spaces
+vim.opt.tabstop = 4            -- A tab is 4 spaces
+vim.opt.smartindent = true     -- Smart indentation
